@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    Hello people,  me chamo Alexsandro Fiuza✋
+    Hello World,  me chamo Alexsandro Fiuza✋
   </h2> 
 </div> 
 
